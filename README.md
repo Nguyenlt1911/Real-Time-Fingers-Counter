@@ -1,5 +1,5 @@
 # Real-Time-Fingers-Counter-using-camera
-![Alt text]([image link](https://github.com/Nguyenlt1911/Real-Time-Fingers-Counter/blob/main/result.png))
+![Alt text](https://github.com/Nguyenlt1911/Real-Time-Fingers-Counter/blob/main/result.png)
 # Requirement:
 Python 3.10.9
 opencv-contrib-python==4.7.0
